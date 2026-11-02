@@ -1,0 +1,6 @@
+{
+  "name": "Société Wissam - INGCO Bénin",
+  "description": "Distributeur exclusif de l'outillage professionnel INGCO au Bénin. Quincaillerie, électroportatif, outillage à main, pièces de rechange et SAV à Abomey-Calavi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
