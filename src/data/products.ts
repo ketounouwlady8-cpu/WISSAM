@@ -23,7 +23,7 @@ export const PRODUCTS_DATA: Product[] = [
     isPromo: true,
     tag: 'Promo Flash',
     warrantyMonths: 12,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'id211008',
@@ -43,7 +43,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 12,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'cagli2211532',
@@ -64,7 +64,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'Best-Seller 20V',
     warrantyMonths: 12,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'cagli207625',
@@ -84,7 +84,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'rh10508',
@@ -107,7 +107,7 @@ export const PRODUCTS_DATA: Product[] = [
     isPromo: true,
     tag: 'Promo Spéciale',
     warrantyMonths: 12,
-    image: '/src/assets/images/welding_heavy_equipment_1793626803500.jpg'
+    image: '/images/welding_heavy.jpg'
   },
   {
     id: 'hkthp11151',
@@ -129,7 +129,7 @@ export const PRODUCTS_DATA: Product[] = [
     isPromo: true,
     tag: 'N°1 Des Ventes',
     warrantyMonths: 12,
-    image: '/src/assets/images/toolkits_cases_mechanic_1793626803568.jpg'
+    image: '/images/toolkits_mechanic.jpg'
   },
   {
     id: 'hktac011182',
@@ -147,7 +147,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/toolkits_cases_mechanic_1793626803568.jpg'
+    image: '/images/toolkits_mechanic.jpg'
   },
   {
     id: 'cosli23042',
@@ -166,7 +166,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'Éco-Budget',
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'cosli22121',
@@ -183,7 +183,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'cos23095',
@@ -205,7 +205,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'Pack Soudure Pro',
     warrantyMonths: 12,
-    image: '/src/assets/images/welding_heavy_equipment_1793626803500.jpg'
+    image: '/images/welding_heavy.jpg'
   },
   {
     id: 'ingmma16015',
@@ -224,7 +224,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 12,
-    image: '/src/assets/images/welding_heavy_equipment_1793626803500.jpg'
+    image: '/images/welding_heavy.jpg'
   },
   {
     id: 'ptwt215002',
@@ -243,7 +243,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/welding_heavy_equipment_1793626803500.jpg'
+    image: '/images/welding_heavy.jpg'
   },
   {
     id: 'hg2000581',
@@ -262,7 +262,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'spg3508',
@@ -284,7 +284,7 @@ export const PRODUCTS_DATA: Product[] = [
     isPromo: true,
     tag: 'Promo Peinture',
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'ghpw2003',
@@ -305,7 +305,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'Haute Puissance',
     warrantyMonths: 12,
-    image: '/src/assets/images/hero_showroom_tools_1793626802422.jpg'
+    image: '/images/hero_showroom.jpg'
   },
   {
     id: 'hpwr18008',
@@ -324,7 +324,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 12,
-    image: '/src/assets/images/hero_showroom_tools_1793626802422.jpg'
+    image: '/images/hero_showroom.jpg'
   },
   {
     id: 'aac1408',
@@ -342,7 +342,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'hlrl30051',
@@ -362,7 +362,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'Matériel BTP de Pointe',
     warrantyMonths: 12,
-    image: '/src/assets/images/hero_showroom_tools_1793626802422.jpg'
+    image: '/images/hero_showroom.jpg'
   },
   {
     id: 'fbli20011',
@@ -381,7 +381,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'Écosystème 20V',
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'fbli2030',
@@ -398,7 +398,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'cmli2001',
@@ -416,7 +416,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'csli1652',
@@ -434,7 +434,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 12,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'acn50401',
@@ -451,7 +451,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 6,
-    image: '/src/assets/images/toolkits_cases_mechanic_1793626803568.jpg'
+    image: '/images/toolkits_mechanic.jpg'
   },
   {
     id: 'wuc01150',
@@ -469,7 +469,7 @@ export const PRODUCTS_DATA: Product[] = [
     inStock: true,
     tag: 'EPI Éco',
     warrantyMonths: 3,
-    image: '/src/assets/images/toolkits_cases_mechanic_1793626803568.jpg'
+    image: '/images/toolkits_mechanic.jpg'
   },
   {
     id: 'js800281',
@@ -488,7 +488,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 12,
-    image: '/src/assets/images/cordless_power_tools_1793626802893.jpg'
+    image: '/images/cordless_tools.jpg'
   },
   {
     id: 'hkthp11111',
@@ -505,7 +505,7 @@ export const PRODUCTS_DATA: Product[] = [
     ],
     inStock: true,
     warrantyMonths: 12,
-    image: '/src/assets/images/toolkits_cases_mechanic_1793626803568.jpg'
+    image: '/images/toolkits_mechanic.jpg'
   }
 ];
 

@@ -30,7 +30,7 @@ export const SavAndWarranty: React.FC = () => {
           {/* Left Column: Visual of Heavy Workshop & Tools */}
           <div className="lg:col-span-5 relative rounded-2xl overflow-hidden border border-slate-200 bg-white shadow-md">
             <img
-              src="/src/assets/images/welding_heavy_equipment_1793626803500.jpg"
+              src="/images/welding_heavy.jpg"
               alt="Atelier de maintenance et pièces détachées Société Wissam INGCO Bénin"
               referrerPolicy="no-referrer"
               className="w-full h-[360px] sm:h-[420px] object-cover"

@@ -44,7 +44,7 @@ export const ToolkitsShowcase: React.FC<ToolkitsShowcaseProps> = ({
             {/* Visual */}
             <div className="lg:col-span-7 relative min-h-[300px] lg:min-h-[420px] bg-slate-100">
               <img
-                src="/src/assets/images/toolkits_cases_mechanic_1793626803568.jpg"
+                src="/images/toolkits_mechanic.jpg"
                 alt="Coffret perceuse 115 pièces HKTHP11151 INGCO Société Wissam Bénin"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

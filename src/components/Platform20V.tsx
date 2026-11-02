@@ -78,7 +78,7 @@ export const Platform20V: React.FC<Platform20VProps> = ({ onFilter20V, onSelectP
           <div className="lg:col-span-7 flex flex-col justify-between rounded-2xl overflow-hidden border border-slate-200 bg-white p-6 sm:p-8 shadow-xs">
             <div className="relative rounded-xl overflow-hidden mb-6 border border-slate-200">
               <img
-                src="/src/assets/images/cordless_power_tools_1793626802893.jpg"
+                src="/images/cordless_tools.jpg"
                 alt="Plateforme sans fil 20V INGCO Bénin chez Société Wissam"
                 referrerPolicy="no-referrer"
                 className="w-full h-[280px] sm:h-[340px] object-cover"

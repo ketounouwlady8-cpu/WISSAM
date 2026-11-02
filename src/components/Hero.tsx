@@ -84,7 +84,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreCatalog, onOpenSav }) => {
           <div className="lg:col-span-5 relative flex items-center">
             <div className="w-full relative rounded-2xl overflow-hidden border border-slate-200 bg-white shadow-xl group">
               <img
-                src="/src/assets/images/hero_showroom_tools_1793626802422.jpg"
+                src="/images/hero_showroom.jpg"
                 alt="Showroom officiel Société Wissam - INGCO Bénin à Abomey-Calavi"
                 referrerPolicy="no-referrer"
                 className="w-full h-[380px] sm:h-[460px] object-cover transition-transform duration-700 group-hover:scale-105"
