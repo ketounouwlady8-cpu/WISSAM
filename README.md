@@ -1,64 +1,46 @@
-# Société Wissam — INGCO Bénin
+# Bénin Fitness Club — Salles de Gym & Coaching au Bénin
 
-Site web officiel et catalogue interactif de la **Société Wissam**, distributeur exclusif de la marque d'outillage professionnel **INGCO au Bénin** (Abomey-Calavi).
+Plateforme complète et guide de référence du fitness, de la musculation et du bien-être au **Bénin** (Cotonou, Abomey-Calavi, Porto-Novo, Parakou).
 
 ---
 
-## 🚀 Déploiement direct sur Vercel via GitHub
+## 🌟 Fonctionnalités Clés
 
-Ce projet est pré-configuré pour un déploiement instantané sur **Vercel** à partir de votre dépôt GitHub.
+1. **Annuaire & Localisateur de Salles de Gym au Bénin** :
+   - Filtres par ville (Cotonou, Calavi, Porto-Novo, Parakou) et par quartiers réels (Haie Vive, Cadjehoun, Kpota, Akpakpa, Fidjrossè, Zogbadjè).
+   - Filtres par équipement : Musculation, Cardio, Crossfit, Boxe/MMA, Cours collectifs.
+   - Tarifs transparents en FCFA (séance à l'unité, mois, tarif étudiant).
+   - Contact direct WhatsApp du gérant et itinéraire Google Maps immédiat.
+   - **Comparateur interactif côte à côte** jusqu'à 3 salles.
 
-### 1. Pousser le projet sur votre GitHub
+2. **Coach Sportif Interactif & Chronomètre d'Entraînement Actif** :
+   - Calculateur métabolique complet : IMC, BMR (métabolisme de base), dépenses journalières (TDEE en kcal) et répartition des macronutriments (protéines, glucides, lipides en grammes).
+   - Programmes d'entraînement guidés : HIIT Brûle-Graisse à la maison, Push-Pull-Legs en salle, Galbe fessiers et taille fine.
+   - **Chronomètre / Timer audio avec bips sonores** pour les temps d'effort et les temps de repos entre séries.
+   - Validation série par série avec jauge de progression en temps réel.
+
+3. **Nutrition & Rééquilibrage Alimentaire Béninois** :
+   - Base de données des plats et aliments du Bénin (Tilapia braisé, poulet bicyclette, igname bouillie, patate douce, atassi, akassa sans huile, avocat de Ouidah, ananas d'Allada).
+   - **Constructeur d'assiette interactif** : calcul en direct des calories et protéines de votre repas.
+   - 3 règles d'or pour manger sain et pas cher sur les marchés locaux (Dantokpa, Ouando).
+
+4. **Annuaire des Coachs Personnels Certifiés** :
+   - Profils détaillés avec spécialités, tarifs de séances en FCFA et réservation directe par WhatsApp.
+
+---
+
+## 🚀 Déploiement Vercel via GitHub
+
+Ce projet est prêt pour le déploiement sur Vercel :
 
 ```bash
-# 1. Initialiser git si ce n'est pas déjà fait
-git init
-
-# 2. Ajouter tous les fichiers
-git add .
-
-# 3. Créer le commit initial
-git commit -m "feat: site officiel societe wissam ingco benin"
-
-# 4. Lier votre repo GitHub (remplacez par votre URL de repo)
-git remote add origin https://github.com/VOTRE_PSEUDO/wissam-ingco-benin.git
+# 1. Lier votre repo GitHub
+git remote add origin https://github.com/VOTRE_PSEUDO/benin-fitness-club.git
 git branch -M main
-git push -u origin main
+git push -u origin main --force
 ```
 
-### 2. Déployer sur Vercel
-
-1. Rendez-vous sur [vercel.com](https://vercel.com) et connectez-vous avec votre compte GitHub.
-2. Cliquez sur **"Add New..."** → **"Project"**.
-3. Sélectionnez le dépôt `wissam-ingco-benin`.
-4. Vercel détecte automatiquement les paramètres :
-   - **Framework Preset** : `Vite`
-   - **Build Command** : `npm run build`
-   - **Output Directory** : `dist`
-5. Cliquez sur **"Deploy"**. En moins de 60 secondes, votre site est en ligne avec HTTPS et CDN mondial !
-
----
-
-## 🛠️ Stack & Caractéristiques
-
-* **Framework** : React 19 + TypeScript + Vite 8
-* **Styles** : Tailwind CSS v4 (Thème clair haute lisibilité)
-* **Icônes** : Lucide React
-* **Configuration Vercel** : Fichier `vercel.json` inclus pour la gestion du routage SPA (`rewrites`) et le cache des assets statiques (`/images/*`).
-* **Fonctionnalités** :
-  - Catalogue complet avec recherche par mot-clé et code article (`ID8508`, `CAGLI2211532`, `HKTHP11151`, etc.)
-  - Simulateur interactif de la plateforme 20V P20S (+580 outils pour 1 batterie)
-  - Panier et générateur de devis en FCFA
-  - Commande instantanée WhatsApp pré-remplie vers le service commercial (`+229 01 97 14 44 44`)
-  - Édition et impression de Facture Proforma officielle (PDF / Impression A4)
-  - Coordonnées, itinéraire GPS et horaires du showroom d'Abomey-Calavi
-
----
-
-## 📞 Contacts & Référence
-
-* **Société** : Société Wissam
-* **Enseigne** : INGCO Bénin
-* **Siège** : Abomey-Calavi, à côté de NSIA Banque, face Polyclinique Coopérative
-* **Commercial / Commandes** : +229 01 97 14 44 44
-* **Atelier SAV / Pièces** : +229 01 97 30 44 44
+Dans Vercel :
+* Framework Preset : `Vite`
+* Build Command : `npm run build`
+* Output Directory : `dist`
